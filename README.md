@@ -1,4 +1,4 @@
-# oktoken
+# OK token
 
 
 Token name : OK
@@ -20,15 +20,16 @@ Supply : 1,000,000,000,000,000
 
 Max supply : 1,000,000,000,000,000 
 
-Github : 
+# Github : 
+
 https://github.com/okoffice/oktoken
 
 
-Twitter : 
+# Twitter : 
 
 https://twitter.com/okcoinoffice/
 
-Telegram : 
+# Telegram : 
 
 https://t.me/okoffice
 
