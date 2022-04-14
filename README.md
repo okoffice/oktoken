@@ -35,6 +35,10 @@ EN: https://t.me/okcommunity
 
 CN: https://t.me/okoffice
 
+# Whitepaper
+
+https://okoffice.club/OK.pdf
+
 
 # About
 
