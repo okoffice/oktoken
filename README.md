@@ -31,7 +31,9 @@ https://twitter.com/okcoinoffice/
 
 # Telegram : 
 
-https://t.me/okoffice
+EN: https://t.me/okcommunity
+
+CN: https://t.me/okoffice
 
 
 # About
