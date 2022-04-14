@@ -33,3 +33,8 @@ https://twitter.com/okcoinoffice/
 
 https://t.me/okoffice
 
+
+# About
+
+Fomo3D game for K0 and OK as tickets will be launched soon
+K0&OK official news: The Fomo3D game for K0 (Kill0) and OK (Okcoin) tickets will be launched on (UTC+8) 22:00, April 15th. This is first FOMO3D game on BSC.  The previous model "LAST WINNER on ETH" once up to 30,000 users after its launch, and the bonus pool was up to 100,000 ETH, which caused blockage on the Ethereum chain.  The upgraded version of the FOMO3D game is made by the K0&OK team, the founder of Kill Zeros Game (Kill0).
